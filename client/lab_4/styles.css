@@ -54,15 +54,15 @@
 }
 
 .carousel {
-
+  overflow: hidden;
 }
 
-.carousel-item {
-
-}
-
-.carousel-actions {
+.carousel_item {
   
+} 
+
+.carousel_actions {
+
 }
 
 .social,
